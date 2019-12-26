@@ -1,0 +1,8 @@
+[creds]
+username = YOUR_USERNAME
+password = YOUR_PASSWORD
+
+[api]
+apiurl = https://mon01.quokka.one/api/table.csv
+closeapiurl = https://mon01.quokka.one/api/closeticket.htm
+
